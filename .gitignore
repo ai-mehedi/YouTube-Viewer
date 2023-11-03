@@ -1,0 +1,10 @@
+.venv/
+.env/
+.vscode/
+__pycache__/
+patched_drivers/
+database.db
+database_backup.db
+config.json
+version.txt
+*.log
